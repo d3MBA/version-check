@@ -1,1 +1,1 @@
-{"version":"1.0.2", "update_notes":"Tailor job - test"}
+{"version":"1.2.0", "notes":"test notes"}

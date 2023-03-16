@@ -1,1 +1,1 @@
-{"version":"1.0.5", "update_notes":""}
+{"version":"1.0.5", "notes":""}
