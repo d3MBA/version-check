@@ -1,1 +1,1 @@
-{"version":"2.0.1", "notes":"Fixed bug with notifications on client side"}
+{"version":"2.0.2", "notes":"Fixed bug with vehicle keys"}
