@@ -1,1 +1,1 @@
-{"version":"1.0.1", "notes":"Added several new features in the latest update. For detailed information, please visit our discord server."}
+{"version":"1.0.2", "notes":"Removed categories for item labels"}
