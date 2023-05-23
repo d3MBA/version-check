@@ -1,1 +1,1 @@
-{"version":"1.0.2", "notes":"Removed categories for item labels"}
+{"version":"1.0.3", "notes":"Added metadata to the additem function"}
