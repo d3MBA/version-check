@@ -1,1 +1,1 @@
-{"version":"1.0.0", "notes":""}
+{"version":"1.0.1", "notes":"Fixed bug with checking the amount of cocaine mix, in the packaging process"}
