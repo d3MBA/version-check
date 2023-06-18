@@ -1,1 +1,1 @@
-{"version":"2.0.1", "notes":"Updated dependencies in fxmanifest file"}
+{"version":"2.0.2", "notes":"Fixed bug with loading menu"}
