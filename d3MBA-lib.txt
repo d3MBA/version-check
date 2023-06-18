@@ -1,1 +1,1 @@
-{"version":"1.0.3", "notes":"Added metadata to the additem function"}
+{"version":"1.0.4", "notes":"Added: HasItem check callback, remove item event. Fixed bug with GetItemLabel function"}
