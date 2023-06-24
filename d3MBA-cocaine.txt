@@ -1,1 +1,1 @@
-{"version":"1.0.2", "notes":"Fixed bug with spawning processing tables"}
+{"version":"1.0.3", "notes":"Included an additional verification step during object placement to confirm if the player possesses the required item, preventing potential exploits"}
