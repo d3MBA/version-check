@@ -1,1 +1,1 @@
-{"version":"1.0.2", "notes":"Fixed bug with distance price multiplier for delivery orders"}
+{"version":"1.0.3", "notes":"Fixed exploits issues, fixed some minor bugs"}
