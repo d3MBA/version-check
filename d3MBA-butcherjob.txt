@@ -1,1 +1,1 @@
-{"version":"1.0.4", "notes":"Fixed minor bugs, just replace 1 file - client/locked/products_delivery.lua"}
+{"version":"1.0.4", "notes":"Fixed minor bugs, you can keep your config file"}
