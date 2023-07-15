@@ -1,1 +1,1 @@
-{"version":"2.0.0", "notes":"Conversion to d3MBA-lib"}
+{"version":"2.0.0", "notes":"Resolved issues, updated script structure. A complete reconfiguration of the script is required. Don't forget to update your d3MBA-lib resources as well."}
