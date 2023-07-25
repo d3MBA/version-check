@@ -1,1 +1,1 @@
-{"version":"2.0.1", "notes":"Fixed issue with barrel particles, you don't have to update config, translations and minigame file settings!"}
+{"version":"2.0.2", "notes":"The processing time for cocaine lafs pile has been updated to minute format (Config.CocaineLeafsProcessing.ProcessingTime)"}
