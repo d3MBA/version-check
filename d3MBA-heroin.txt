@@ -1,1 +1,1 @@
-{"version":"1.0.0", "notes":""}
+{"version":"1.0.1", "notes":"Fixed an issue where the ingredient mixing process bypassed the required 'brownbase' step. It's now mandatory to include the 'brownbase' in the recipe to create heroin."}
