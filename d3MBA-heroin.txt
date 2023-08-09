@@ -1,1 +1,1 @@
-{"version":"1.0.1", "notes":"Fixed an issue where the ingredient mixing process bypassed the required 'brownbase' step. It's now mandatory to include the 'brownbase' in the recipe to create heroin."}
+{"version":"1.0.2", "notes":"The unit for updating pH processes in the barrel has changed from hours to minutes. This update is optional and not mandatory for users."}
