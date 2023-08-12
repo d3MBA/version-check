@@ -1,1 +1,1 @@
-{"version":"1.0.2", "notes":"The unit for updating pH processes in the barrel has changed from hours to minutes. This update is optional and not mandatory for users."}
+{"version":"1.0.3", "notes":"Fixed a bug where players could create a heroin dose without possessing the heroin item."}
