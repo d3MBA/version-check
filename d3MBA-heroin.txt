@@ -1,1 +1,1 @@
-{"version":"1.0.6", "notes":"Fixed a bug where players could create a heroin dose without possessing the heroin item."}
+{"version":"1.0.3", "notes":"Fixed a bug where players could create a heroin dose without possessing the heroin item."}
