@@ -1,1 +1,1 @@
-{"version":"2.0.0", "notes":"New features have been incorporated along with a dedicated folder for script functions, essential for certain d3MBA scripts. This update is critical for the functioning of the cocaine script!"}
+{"version":"2.0.1", "notes":"Added CanCarryItem function and callback"}
