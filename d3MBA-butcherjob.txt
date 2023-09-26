@@ -1,1 +1,1 @@
-{"version":"2.0.1", "notes":"Added CarCarryItem callback on catching chickens event, added option in the config file to disable/enable object synchronization in the animations (Config.SyncAnimationsObjects)"}
+{"version":"2.0.2", "notes":"Added blips for taking a job vehicle (ped), and for returning a job vehicle zone"}
