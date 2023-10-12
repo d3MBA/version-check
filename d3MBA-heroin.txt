@@ -1,1 +1,1 @@
-{"version":"1.0.3", "notes":"Fixed a bug where players could create a heroin dose without possessing the heroin item."}
+{"version":"1.1.0", "notes":"Fixed bug where players can add unlimited woods on fire even if they do't have it in the inventory, added a option to limit a number of barrels that can be placed per player"}
