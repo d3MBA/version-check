@@ -1,1 +1,1 @@
-{"version":"2.0.1", "notes":"Resolved an issue allowing players to infinitely accumulate paper bales in the recycling machine."}
+{"version":"2.0.2", "notes":"Addressed a bug that caused an error message when updating the database. This error occurred when attempting to update data in the database without a specified player source (player ID). This issue has been resolved"}
