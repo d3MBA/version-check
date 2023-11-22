@@ -1,1 +1,1 @@
-{"version":"2.0.2", "notes":"Added blips for taking a job vehicle (ped), and for returning a job vehicle zone"}
+{"version":"2.1.0", "notes":"Added blips for taking a job vehicle (ped), and for returning a job vehicle zone"}
