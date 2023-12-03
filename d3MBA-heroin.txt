@@ -1,1 +1,1 @@
-{"version":"1.1.0", "notes":"Fixed bug where players can add unlimited woods on fire even if they do't have it in the inventory, added a option to limit a number of barrels that can be placed per player"}
+{"version":"1.2.0", "notes":"Resolved an issue where players were occasionally unable to target certain objects (such as barrels and pots)"}
