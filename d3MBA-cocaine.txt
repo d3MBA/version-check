@@ -1,1 +1,1 @@
-{"version":"2.0.2", "notes":"The processing time for cocaine lafs pile has been updated to minute format (Config.CocaineLeafsProcessing.ProcessingTime)"}
+{"version":"2.1.0", "notes":"Resolved an issue where players were occasionally unable to target certain objects (such as barrels and pots)"}
