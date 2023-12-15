@@ -1,4 +1,4 @@
-{   "version":"2.0.3",
+{   "version":"2.0.4",
     "notes":"Conversion to d3MBA-lib",
     "files_changed": ["file1.py", "file2.js", "file3.html"]
 }
