@@ -1,5 +1,5 @@
 {
-  "version": "2.5.0",
-  "notes": "Fixed a problem where pictures and icons in the qb-menu were not lined up right. Also, made it work better with ox_inventory and qs-inventory.",
-  "files_changed": ["All files have been changed.", "Please set up your configuration file once more."]
+  "version": "2.5.1",
+  "notes": "Fixed issue where players experienced freezing after certain actions, specifically related to the default progress bar in the QB framework.",
+  "files_changed": ["utils/progressbar.lua"]
 }
