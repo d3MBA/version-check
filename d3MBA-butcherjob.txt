@@ -1,1 +1,5 @@
-{"version":"2.1.0", "notes":"Added blips for taking a job vehicle (ped), and for returning a job vehicle zone"}
+{
+  "version": "2.1.1",
+  "notes": "Now, when scrolling through job instruction scenes, they will not repeat endlessly. This solves the problem where sometimes the scrolling would get stuck on one scene.",
+  "files_changed": ["client/job_instructions.lua", "translations.lua"]
+}
