@@ -1,4 +1,4 @@
 {
-  "version": "3.1.1",
-  "notes": "Resolved an issue affecting target on both basic and advanced tailor machines"
+  "version": "3.2.1",
+  "notes": "s"
 }
