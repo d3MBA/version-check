@@ -1,5 +1,5 @@
 {
-  "version": "2.1.1",
-  "notes": "Now, when scrolling through job instruction scenes, they will not repeat endlessly. This solves the problem where sometimes the scrolling would get stuck on one scene.",
-  "files_changed": ["client/job_instructions.lua", "translations.lua"]
+  "version": "2.1.2",
+  "notes": "Fixed the issue with images not showing in the menu (grinder, order menu, etc.).",
+  "files_changed": ["client/menu/menu.lua"]
 }
