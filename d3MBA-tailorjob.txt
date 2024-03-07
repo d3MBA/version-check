@@ -1,5 +1,5 @@
 {
-  "version": "3.1.1",
-  "notes": "Resolved an issue affecting target on both basic and advanced tailor machines",
-  "files_changed": ["client/target/target.lua"]
+  "version": "3.2.0",
+  "notes": "Fixed issue with the job vehicle ped target doesn't work on script start",
+  "files_changed": ["client/target/target.lua, client/client.lua"]
 }
