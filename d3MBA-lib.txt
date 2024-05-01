@@ -1,5 +1,5 @@
 {
-  "version": "2.5.1",
-  "notes": "Fixed issue where players experienced freezing after certain actions, specifically related to the default progress bar in the QB framework.",
-  "files_changed": ["utils/progressbar.lua"]
+  "version": "3.0.0",
+  "notes": "Overall library improvements",
+  "files_changed": ["ALL FILES"]
 }
