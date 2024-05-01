@@ -1,1 +1,5 @@
-{"version":"2.1.0", "notes":"Resolved an issue where players were occasionally unable to target certain objects (such as barrels and pots)"}
+{
+  "version": "2.2.0",
+  "notes": "Fixed the time zone difference issue to ensure consistent timestamps between the game server and the database, enhancing synchronization and reducing potential gameplay discrepancies.",
+  "files_changed": ["server/locked/cocaine_leaves_processing.lua, server/locked/cocaine_tables.lua client/locked/cocaine_leaves_processing.lua"]
+}
