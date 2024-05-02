@@ -1,1 +1,5 @@
-{"version":"1.2.0", "notes":"Resolved an issue where players were occasionally unable to target certain objects (such as barrels and pots)"}
+{
+  "version": "1.3.0",
+  "notes": "Fixed the time zone difference issue to ensure consistent timestamps between the game server and the database, enhancing synchronization and reducing potential gameplay discrepancies.",
+  "files_changed": ["server/locked/barrel.lua client/locked/barrel.lua"]
+}
