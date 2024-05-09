@@ -1,5 +1,5 @@
 {
-  "version": "2.1.2",
-  "notes": "Fixed the issue with images not showing in the menu (grinder, order menu, etc.).",
-  "files_changed": ["client/menu/menu.lua"]
+  "version": "2.2.0",
+  "notes": "Fixed a bug with inserting a new player into the database during the catching chickens event.",
+  "files_changed": ["server/locked/server.lua"]
 }
