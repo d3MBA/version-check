@@ -1,5 +1,5 @@
 {
-  "version": "2.2.0",
-  "notes": "Fixed the time zone difference issue to ensure consistent timestamps between the game server and the database, enhancing synchronization and reducing potential gameplay discrepancies.",
-  "files_changed": ["server/locked/cocaine_leaves_processing.lua server/locked/cocaine_tables.lua client/locked/cocaine_leaves_processing.lua"]
+  "version": "2.3.0",
+  "notes": "Added a option to limit a number of cocaine piles that can be placed per player",
+  "files_changed": ["server/locked/cocaine_leaves_processing.lua client/locked/client.lua client/locked/cocaine_leaves_processing.lua"]
 }
