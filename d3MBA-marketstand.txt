@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
-  "notes": "",
-  "files_changed": [""]
+  "version": "1.1.0",
+  "notes": "Added new configuration option to disable working hours for the tables, and disable hiring peds (Config.DisableWorkingTime)",
+  "files_changed": ["ALL THE FILES"]
 }
