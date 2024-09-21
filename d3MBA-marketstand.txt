@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
-  "notes": "Added new configuration option to disable working hours for the tables, and disable hiring peds (Config.DisableWorkingTime)",
-  "files_changed": ["ALL THE FILES"]
+  "version": "1.2.0",
+  "notes": "Resolved the issue causing duplicate targets for spawned tables.",
+  "files_changed": ["client/locked/place_object.lua", "server/locked/place_object.lua"]
 }
