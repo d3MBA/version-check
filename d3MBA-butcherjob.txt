@@ -1,5 +1,5 @@
 {
   "version": "2.5.0",
-  "notes": "Improved grinder, instant sell menu, fixed glitch allowing order abuse, fixed "change cloathes" logic",
+  "notes": "Improved grinder, instant sell menu, fixed glitch allowing order abuse, fixed change cloathes logic",
   "files_changed": ["ALL FILES"]
 }
