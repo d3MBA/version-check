@@ -1,5 +1,5 @@
 {
-  "version": "2.5.0",
-  "notes": "Improved grinder, instant sell menu, fixed glitch allowing order abuse, fixed change cloathes logic",
-  "files_changed": ["ALL FILES"]
+  "version": "2.5.1",
+  "notes": "Fixed SQL error in server console",
+  "files_changed": ["server/locked/sql_update.lua"]
 }
