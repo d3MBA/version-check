@@ -1,5 +1,5 @@
 {
-  "version": "2.5.1",
-  "notes": "Fixed SQL error in server console",
-  "files_changed": ["server/locked/sql_update.lua"]
+  "version": "2.5.2",
+  "notes": "Fixed map-related issues causing invisible collection boxes (e.g., for plucked chickens). If you're experiencing these issues, please update your script.",
+  "files_changed": ["d3MBA-butcherjob/stream"]
 }
