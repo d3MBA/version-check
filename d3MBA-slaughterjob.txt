@@ -1,5 +1,5 @@
 {
-  "version": "1.1.1",
-  "notes": "Fixed target load cow",
+  "version": "1.2.0",
+  "notes": "Fixed an issue preventing players from picking up cow halves and cow heads due to incorrect logic in the interaction conditions.\n\nFixed a warning message spam on player join related to 'Framework.GetPlayerIdentifiers' returning a nil player.",
   "files_changed": ["ALL THE FILES"]
 }
