@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
-  "notes": "Fixed an issue preventing players from picking up cow halves and cow heads due to incorrect logic in the interaction conditions.\n\nFixed a warning message spam on player join related to 'Framework.GetPlayerIdentifiers' returning a nil player.",
+  "version": "1.3.0",
+  "notes": "Fixed an issue preventing players from picking up cow halves and heads.\n\nAdded an option to configure which objects are synced to nearby players in the config file.\n\nAdded an option to limit the number of cows a player can load into the truck.",
   "files_changed": ["ALL THE FILES"]
 }
