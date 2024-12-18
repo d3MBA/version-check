@@ -1,5 +1,5 @@
 {
-  "version": "2.5.2",
-  "notes": "Fixed map-related issues causing invisible collection boxes (e.g., for plucked chickens). If you're experiencing these issues, please update your script.",
-  "files_changed": ["d3MBA-butcherjob/stream"]
+  "version": "2.6.0",
+  "notes": "Fixed printing errors on player join, improved auto-delete order logic, and implemented additional minor fixes.",
+  "files_changed": ["ALL THE FILES"]
 }
