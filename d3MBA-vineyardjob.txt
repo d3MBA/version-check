@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
-  "notes": "Fixed issue with taking scissors. Moved dynamic pricing for instant sell to the server side, ensuring all players have the same dynamic prices for instant selling wines.",
+  "version": "1.2.1",
+  "notes": "Added the CrushingPositions configuration for the team crushing grapes. Also fixed several minor bugs.",
   "files_changed": ["ALL FILES"]
 }
