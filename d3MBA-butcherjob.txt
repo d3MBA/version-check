@@ -1,5 +1,5 @@
 {
-  "version": "2.6.0",
-  "notes": "Fixed printing errors on player join, improved auto-delete order logic, and implemented additional minor fixes.",
-  "files_changed": ["ALL THE FILES"]
+  "version": "2.6.1",
+  "notes": "Optimized thread to reduce client resource usage.\n\nThis update is optional and does not affect gameplay functionality.",
+  "files_changed": ["client/locked/job_instructions.lua"]
 }
