@@ -1,5 +1,5 @@
 {
-  "version": "1.3.1",
-  "notes": "Optimized thread to reduce client resource usage.\n\nThis update is optional and does not affect gameplay functionality.",
-  "files_changed":  ["client/locked/job_instructions.lua"]
+  "version": "1.4.0",
+  "notes": "Added 'Quick Sell All' button in the instant sell menu for easier selling. Can be disabled in the config file.",
+  "files_changed": ["ALL FILES"]
 }
