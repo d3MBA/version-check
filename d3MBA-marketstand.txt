@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
-  "notes": "Resolved the issue causing duplicate targets for spawned tables.",
-  "files_changed": ["client/locked/place_object.lua", "server/locked/place_object.lua"]
+  "version": "1.2.1",
+  "notes": "Fixed a bug where players were unable to purchase items from other players' tables",
+  "files_changed": ["ALL FILES"]
 }
