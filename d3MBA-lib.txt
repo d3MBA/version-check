@@ -1,5 +1,5 @@
 {
-  "version": "4.0.0",
-  "notes": "Full resource rewrite!",
+  "version": "4.1.0",
+  "notes": "fix(progressbar): block script until full duration elapses to stop cancel-skip exploit",
   "files_changed": ["ALL FILES"]
 }
