@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
-  "notes": "",
-  "files_changed": [""]
+  "version": "1.1.0",
+  "notes": "Fixed issue where objects sometimes disappeared after server restart. Script now uses SQL to store object locations, so you will need to recreate money printer and cutting table positions. Please upload the provided SQL files to enable this",
+  "files_changed": ["ALL FILES"]
 }
