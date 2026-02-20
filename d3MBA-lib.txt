@@ -1,5 +1,12 @@
 {
-  "version": "4.1.0",
-  "notes": "fix(progressbar): block script until full duration elapses to stop cancel-skip exploit",
-  "files_changed": ["ALL FILES"]
+  "version": "4.2.0",
+  "notes": "fix(server/RemoveItem): capture source immediately to prevent wrong-player exploit | fix(load-module): auto-normalize qbx-core CoreObject to qb-core on start | fix(oxmysql): fix ternary fallthrough on empty results, add MySQL nil guard, and safe pcall error handling across all query functions",
+  "files_changed": [
+    "server/framework/qbcore.lua",
+    "server/framework/esx.lua",
+    "server/load-module.lua",
+    "client/load-module.lua",
+    "config/config.lua",
+    "server/database/oxmysql.lua"
+  ]
 }
