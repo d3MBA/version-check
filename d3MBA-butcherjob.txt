@@ -1,5 +1,5 @@
 {
-  "version": "2.7.0",
-  "notes": "Added 'Quick Sell All' button in the instant sell menu for easier selling. Can be disabled in the config file.",
-  "files_changed": ["ALL FILES"]
+  "version": "2.8.0",
+  "notes": "Fixed an issue where chickens would fall through the map when their spawn locations were changed in the config. Added proper ground collision checks and Z-coordinate calculations to ensure they always spawn correctly on the surface.",
+  "files_changed": ["client/locked/catching_chickens.lua"]
 }
