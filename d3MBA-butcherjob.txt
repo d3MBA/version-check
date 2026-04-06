@@ -1,5 +1,5 @@
 {
-  "version": "2.8.1",
-  "notes": "Fixed a script error 'attempt to index a boolean value' that occurred when a new player without job experience started working. Added data validation to correctly assign base experience levels.",
-  "files_changed": ["client/experience_system.lua"]
+  "version": "2.8.2",
+  "notes": "Fixed an issue where chickens would instantly disappear/despawn if the farm was moved far away from the default location. Replaced hardcoded distance checks with dynamic ones bound to your configuration coordinates.",
+  "files_changed": ["client/locked/catching_chickens.lua"]
 }
