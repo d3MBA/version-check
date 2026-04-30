@@ -1,5 +1,8 @@
 {
-  "version": "1.3.1",
-  "notes": "Fixed AutoDeleteOrder so it no longer runs when disabled in config, and prevented the startup oxmysql nil error during cleanup.",
-  "files_changed": ["server/locked/products_delivery.lua"]
+  "version": "1.3.2",
+  "notes": "Moved DrawText (Job Instructions) and DrawText3D functions to config.lua so you can freely change the font to support specific language characters.",
+  "files_changed": [
+    "config/config.lua", 
+    "client/locked/job_instructions.lua"
+  ]
 }
