@@ -1,5 +1,9 @@
 {
-  "version": "2.8.2",
-  "notes": "Fixed an issue where chickens would instantly disappear/despawn if the farm was moved far away from the default location. Replaced hardcoded distance checks with dynamic ones bound to your configuration coordinates.",
-  "files_changed": ["client/locked/catching_chickens.lua"]
+  "version": "2.8.3",
+  "notes": "Fixed AutoDeleteOrder to respect the config setting and prevent startup nil errors. Moved DrawText (Job Instructions) and DrawText3D functions to config.lua to allow custom font configuration for specific languages.",
+  "files_changed": [
+    "config/config.lua",
+    "client/locked/job_instructions.lua",
+    "server/locked/products_delivery.lua"
+  ]
 }
