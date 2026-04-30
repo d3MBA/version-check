@@ -1,5 +1,9 @@
 {
-  "version": "1.4.0",
-  "notes": "Added 'Quick Sell All' button in the instant sell menu for easier selling. Can be disabled in the config file.",
-  "files_changed": ["ALL FILES"]
+  "version": "1.4.1",
+  "notes": "Fixed AutoDeleteOrder to respect the config setting and prevent startup nil errors. Moved DrawText (Job Instructions) and DrawText3D functions to config.lua to allow custom font configuration for specific languages.",
+  "files_changed": [
+    "config/config.lua",
+    "client/locked/job_instructions.lua",
+    "server/locked/products_delivery.lua"
+  ]
 }
